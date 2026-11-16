@@ -1,0 +1,13 @@
+{
+  "name": "@civ-clone/base-diplomacy-declaration-alliance",
+  "version": "0.0.0",
+  "description": "The Alliance declaration: a treaty that goes further than peace, and implies it.",
+  "repository": "git@github.com:civ-clone/base-diplomacy-declaration-alliance.git",
+  "keywords": [
+    "typescript",
+    "civilization"
+  ],
+  "author": "dom111 <dom111@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
